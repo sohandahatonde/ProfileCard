@@ -1,0 +1,32 @@
+{
+  "profile": [
+    {
+      "id": "1",
+      "img": "src/assets/person2.jpg",
+      "name": "Vishnu Purana",
+      "about": "Cloud Engineer @LTIMindtree . Certified Cloud Engineer in GCP (Associate Cloud Engineer), AWS(Solution Architect Associate). Multi-Cloud enthusiast.",
+      "location": "Hinjawadi Phase 2 Rd, Phase 1, Hinjawadi Rajiv Gandhi Infotech Park, Hinjawadi, Pimpri-Chinchwad, Maharashtra 411057"
+    },
+    {
+      "id": "cbd2",
+      "img": "src/assets/person3.jpg",
+      "name": "Rohan Kumar",
+      "about": "Associate Software Developer @ LogiTax | Full-Stack Developer with expertise in Azure DevOps, .Net Core and React.js",
+      "location": "Pune bavdhan, Maharashtra"
+    },
+    {
+      "id": "ec76",
+      "img": "src/assets/person4.jpg",
+      "name": "Devil row",
+      "about": "STQB(UKITB) Certified | 4 yrs Experienced Software Testing Professional | Insurance and Finance Domain | Automation and Manual Testing | Agile | Java | Test Scenarios I Selenium | TestNg | Maven | GWCC| Postman | Python",
+      "location": "Aundh pune, Maharashtra"
+    },
+    {
+      "id": "cec4",
+      "img": "src/assets/person5.jpg",
+      "name": "Mohit kumar",
+      "about": "Senior Associate Consultant @Infosys || Ex - Capgemini || Backend Engineer 3.6 YoE || Zulu-17|| Java8 || Spring Boot || Rest-API || MySQL || Postgres ||Mocroservices || WinSCP || Putty || Junit5 || Mockito",
+      "location": "bumkar chowk pune, Maharashtra"
+    }
+  ]
+}
